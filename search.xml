@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[hexo可视化编辑问题的解决]]></title>
+    <url>%2Fhexo%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BC%96%E8%BE%91.html</url>
+    <content type="text"><![CDATA[最近一时兴起便用hexo+github搭了一个自己的专属博客，地址： http://www.xyj123.xyz界面确实比CSDN好看太多了，但是编辑文章却比较麻烦，所以hexo的可视化编辑也是一个问题。 试过几个编辑器，最终还是选择了CSDN附带的Markdown编辑器哈哈哈，这样既可以在hexo上发布文章，在CSDN上也可以继续更新文章。 只需要在CSDN上编辑好后，copy到sublime或者nodepad++上，加个front-matter就可以了。毕竟用惯了CSDN的编辑器，还是挺好用的。带的功能也挺多的。 图片上传在这根本不是问题，直接粘贴就可以了，不需要安装任何插件，代码处理的也挺好。（吐槽一下好多Markdown编辑器的图片上传非要上传地址的，搞的有的复制粘贴的图根本没法用，在这里csdn直接帮你解决了哈哈哈）]]></content>
+      <categories>
+        <category>积累经验</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[通过cmd查找端口对应程序解决端口冲突]]></title>
     <url>%2F%E8%A7%A3%E5%86%B3%E7%AB%AF%E5%8F%A3%E5%86%B2%E7%AA%81%E9%97%AE%E9%A2%98.html</url>
     <content type="text"><![CDATA[在用很多程序，比如nginx，Tomcat，mysql等，经常因为端口被占用而无法运行，所以在这个时候就必须把占用端口的程序给杀死，才能运行当前的程序。（其实好早之前就想记录一下了，只是太懒了）以下所以命令均在cmd命令行进行 1、查看所有进程的端口：1netstat –ano 2、查看某个端口的进程1netstat -ano|findstr [指定端口号] 比如我查找3306端口的进程（也就是mysql），可以看到对应的pid是8512 12netstat -ano|findstr 3306TCP 0.0.0.0:3306 0.0.0.0:0 LISTENING 8512 3、杀死某个端口的进程通过以上命令查到对应程序的端口号后，可以打开任务管理器，转到详细信息那一项，匹配与以上pid对应的程序，并右键结束该任务。如图：当然也可以用命令来杀死程序，但我觉得任务管理器更加方便，这里就不赘述相关命令了。]]></content>
