@@ -1,5 +1,5 @@
+http://www.xyj123.xyz/mybati的pagehelper分页插件详解.html
 http://www.xyj123.xyz/mysql5.6转mysql8遇到的坑.html
 http://www.xyj123.xyz/hexo可视化编辑.html
 http://www.xyj123.xyz/解决端口冲突问题.html
 http://www.xyj123.xyz/hexo+github搭建博客.html
-http://www.xyj123.xyz/springboot+mybatis最新版注解配置实现CURD.html
