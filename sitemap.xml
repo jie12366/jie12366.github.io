@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.xyj123.xyz/oj%E5%9B%9B%E9%A2%98.html</loc>
+    
+    <lastmod>2019-03-10T10:44:34.094Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.xyj123.xyz/%E6%90%AD%E5%BB%BAgitlab.html</loc>
     
     <lastmod>2019-03-09T14:53:03.873Z</lastmod>
@@ -86,6 +93,13 @@
   </url>
   
   <url>
+    <loc>http://www.xyj123.xyz/hello-world.html</loc>
+    
+    <lastmod>2017-10-28T00:39:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.xyj123.xyz/scaffolds/draft.html</loc>
     
     <lastmod>2017-10-28T00:39:58.000Z</lastmod>
@@ -101,13 +115,6 @@
   
   <url>
     <loc>http://www.xyj123.xyz/scaffolds/post.html</loc>
-    
-    <lastmod>2017-10-28T00:39:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.xyj123.xyz/hello-world.html</loc>
     
     <lastmod>2017-10-28T00:39:58.000Z</lastmod>
     
