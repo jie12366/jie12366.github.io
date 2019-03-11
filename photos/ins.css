@@ -1,6 +1,9 @@
 #post-instagram{
 	padding: 30px;
 }
+figure {
+    margin: 0;
+}
 #post-instagram .article-entry{
 	padding-right: 0;
 }
@@ -9,7 +12,12 @@
 	min-height: 500px;
 }
 .instagram img {
-	width: 100%;
+    width: 100%;
+    
+}
+.posts-expand .post-body img {
+    padding: 0;
+    border : 0;
 }
 .instagram .year {
 	font-size: 16px;
