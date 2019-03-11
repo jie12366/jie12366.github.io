@@ -35,7 +35,7 @@ figure {
 .instagram .thumb {
 	width: 25%;
 	height: 0; 
-	padding: 5%;
+	padding: 25%;
 	position: relative;
 	display: inline-block;
 	text-align: center;
@@ -62,7 +62,7 @@ figure {
 	display: inline-block;
 	box-sizing: border-box;
 	padding: 0 5px;
-	margin-bottom: -10px;
+	margin: 10px;
 	height: 0;
 	width: 25%;
 	position: relative;
