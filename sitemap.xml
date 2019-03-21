@@ -128,20 +128,6 @@
   </url>
   
   <url>
-    <loc>http://www.xyj123.xyz/hello-world.html</loc>
-    
-    <lastmod>2017-10-28T00:39:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.xyj123.xyz/scaffolds/draft.html</loc>
-    
-    <lastmod>2017-10-28T00:39:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.xyj123.xyz/scaffolds/post.html</loc>
     
     <lastmod>2017-10-28T00:39:58.000Z</lastmod>
@@ -149,7 +135,21 @@
   </url>
   
   <url>
+    <loc>http://www.xyj123.xyz/hello-world.html</loc>
+    
+    <lastmod>2017-10-28T00:39:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.xyj123.xyz/scaffolds/page.html</loc>
+    
+    <lastmod>2017-10-28T00:39:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.xyj123.xyz/scaffolds/draft.html</loc>
     
     <lastmod>2017-10-28T00:39:58.000Z</lastmod>
     
