@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.xyj123.xyz/photos/data.json</loc>
+    
+    <lastmod>2019-04-27T07:32:50.640Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.xyj123.xyz/java%E7%88%AC%E5%8F%96%E6%AD%8C%E6%9B%B2%E5%B9%B6%E5%AD%98%E5%85%A5%E6%95%B0%E6%8D%AE%E5%BA%93.html</loc>
+    
+    <lastmod>2019-04-27T07:27:17.493Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.xyj123.xyz/spring+mybatis%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86%E8%AF%A6%E8%A7%A3.html</loc>
+    
+    <lastmod>2019-04-27T07:23:09.016Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.xyj123.xyz/ToQiniu.html</loc>
     
     <lastmod>2019-03-28T12:36:14.024Z</lastmod>
@@ -19,13 +40,6 @@
     <loc>http://www.xyj123.xyz/javaEE.html</loc>
     
     <lastmod>2019-03-16T04:58:04.089Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.xyj123.xyz/photos/data.json</loc>
-    
-    <lastmod>2019-03-16T01:29:16.041Z</lastmod>
     
   </url>
   
@@ -135,7 +149,14 @@
   </url>
   
   <url>
-    <loc>http://www.xyj123.xyz/scaffolds/page.html</loc>
+    <loc>http://www.xyj123.xyz/hello-world.html</loc>
+    
+    <lastmod>2017-10-28T00:39:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.xyj123.xyz/scaffolds/draft.html</loc>
     
     <lastmod>2017-10-28T00:39:58.000Z</lastmod>
     
@@ -149,14 +170,7 @@
   </url>
   
   <url>
-    <loc>http://www.xyj123.xyz/hello-world.html</loc>
-    
-    <lastmod>2017-10-28T00:39:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.xyj123.xyz/scaffolds/draft.html</loc>
+    <loc>http://www.xyj123.xyz/scaffolds/page.html</loc>
     
     <lastmod>2017-10-28T00:39:58.000Z</lastmod>
     

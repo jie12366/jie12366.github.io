@@ -116,8 +116,8 @@
         var data = res.list[j].arr;
         var liTmpl = "";
         for (var i = 0, len = data.link.length; i < len; i++) {
-          var minSrc = 'http://poag7m5q9.bkt.clouddn.com/' + data.link[i];
-          var src = 'http://poag7m5q9.bkt.clouddn.com/' + data.link[i];
+          var minSrc = 'http://cdn.jie12366.xyz/' + data.link[i];
+          var src = 'http://cdn.jie12366.xyz/' + data.link[i];
           var type = data.type[i];
           var target = src + (type === 'video' ? '.mp4' : '.jpg');
           src += '';
